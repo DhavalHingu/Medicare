@@ -1,0 +1,6 @@
+amicasin;inj;1;6;20;120
+amicasin;h;5;10;20;200
+Piriton;tab;one time;4;5;20
+Dual Cotexin;tab;two time;5;120;600
+amicasin;one;one;5;20;100
+TOTAL;;;;;1040

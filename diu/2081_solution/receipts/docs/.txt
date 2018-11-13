@@ -1,0 +1,37 @@
+Piriton;h;h;h;5;0
+Select Drug;5;5;5;;0
+Piriton;j;j;j;5;0
+Piriton;j;j;j;5;0
+Flagi;j;j;j;15;0
+Piriton;j;j;j;5;0
+Piriton;j;j;j;5;0
+Dual Cotexin;5;5;5;120;600
+Naproxen;g;g;g;250;0
+Piriton;b;nn;nn;5;0
+Piriton;j;j;j;5;0
+Dual Cotexin;k;k;k;120;0
+Piriton;k;k;k;5;0
+Flagi;k;k;k;15;0
+Dual Cotexin;k;k;k;120;0
+Piriton;j;j;j;5;0
+Flagi;4;4;4;15;60
+Piriton;5;5;5;5;25
+Dual Cotexin;k;k;k;120;0
+Piriton;j;j;j;5;0
+Naproxen;k;k;k;250;0
+Piriton;k;k;k;5;0
+Dual Cotexin;k;k;k;120;0
+Piriton;k;k;k;5;0
+Dual Cotexin;k;k;k;120;0
+Piriton;a;a;a;5;0
+Dual Cotexin;h;f;d;120;0
+Piriton;j;j;j;5;0
+Select Drug;2;2;2;;0
+foic acid;j;j;j;;0
+crocin;5;5;5;;0
+foic acid;5;5;5;;0
+dixogin;5;5;5;;0
+foic acid;5;5;5;;0
+amicasin;5;5;5;20;100
+crocin;20;20;20;;0
+amicasin;4;4;4;;0

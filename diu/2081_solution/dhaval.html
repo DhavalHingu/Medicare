@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function () {
+    $('#mySelect').change(function () {
+       var val = $('#mySelect option:selected').val();
+       $.ajax({
+       	url : "dhaval1.php";
+       	type : "POST"
+       	data :{"id": val}
+       	success: function(data){
+        $("#price").val(price);
+    }
+});
+    });
+});
+	</script>
+</head>
+<body>
+<form method="" action="">
+<label>Select Medicines:</label> 
+<select id = "mySelect" name = "fname">
+    <option value="1">Med_1</option>
+    <option value="2">Med_2</option>
+    <option value="3">Med_3</option>
+    <option value="4">Med_4</option>
+    <option value="5">Med_5</option>
+    <option value="6">Med_6</option>
+    <option value="7">Med_7</option>
+</select>
+
+
+<br>
+
+<p><label>Batch No:</label> <input type="text" name="level" id="price"></p><br>
+</form>
+</body>
+</html>

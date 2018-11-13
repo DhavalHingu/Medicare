@@ -1,0 +1,3 @@
+Flagi;s;s;2;15;30
+Naproxen;s;s;s;250;0
+TOTAL;;;;;30

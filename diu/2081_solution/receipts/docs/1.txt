@@ -1,0 +1,6 @@
+Piriton;bnm;j;5;5;25
+Select Drug;hh;hh;5;;0
+Piriton;1;2;2;5;10
+Actal;b;m;4;1;4
+Naproxen;m;m;5;250;1250
+Piriton;s;s;2;5;10

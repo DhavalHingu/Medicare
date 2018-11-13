@@ -1,0 +1,3 @@
+Flagi;l;a;4;15;60
+Naproxen;h;h;6;250;1500
+TOTAL;;;;;1560

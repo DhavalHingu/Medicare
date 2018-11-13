@@ -1,0 +1,3 @@
+Piriton;10 gms;1*2;5;5;25
+Dual Cotexin;20 gms;1*2;4;120;480
+amicasin;20 gms;1x2;5;20;100

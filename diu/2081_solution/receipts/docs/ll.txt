@@ -1,0 +1,4 @@
+Piriton;k;k;k;5;0
+Piriton;22;2;2;5;10
+Piriton;j;j;j;5;0
+Dual Cotexin;k;k;k;120;0

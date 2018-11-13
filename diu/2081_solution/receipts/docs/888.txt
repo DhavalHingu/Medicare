@@ -1,0 +1,6 @@
+amicasin;10 gms;1x2;5;20;100
+Dual Cotexin;20 gm;2x1;10;120;1200
+Naproxen;k;k;4;250;1000
+Flagi;k;k;10;15;150
+amicasin;k;k;5;20;100
+Naproxen;5;5;5;250;1250
